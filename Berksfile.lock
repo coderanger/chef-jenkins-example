@@ -1,0 +1,57 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "1.9.0"
+    },
+    "jenkins": {
+      "locked_version": "0.8.0",
+      "git": "git://github.com/opscode-cookbooks/jenkins.git",
+      "ref": "0ff2a4e20e5ca0646a112b3bc11c22af87a9f3ad"
+    },
+    "jenkins-example": {
+      "path": "./cookbooks/jenkins-example"
+    },
+    "java": {
+      "locked_version": "1.10.0"
+    },
+    "windows": {
+      "locked_version": "1.9.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "runit": {
+      "locked_version": "1.1.4"
+    },
+    "build-essential": {
+      "locked_version": "1.4.0"
+    },
+    "yum": {
+      "locked_version": "2.2.4"
+    },
+    "apache2": {
+      "locked_version": "1.4.0"
+    },
+    "nginx": {
+      "locked_version": "1.1.2"
+    },
+    "bluepill": {
+      "locked_version": "2.2.2"
+    },
+    "rsyslog": {
+      "locked_version": "1.6.0"
+    },
+    "ohai": {
+      "locked_version": "1.1.10"
+    },
+    "iptables": {
+      "locked_version": "0.12.0"
+    },
+    "git": {
+      "locked_version": "2.5.2"
+    },
+    "dmg": {
+      "locked_version": "1.1.0"
+    }
+  }
+}
